@@ -20,9 +20,9 @@ and borough metadata for NYC public schools.
 
 ## Tools & Techniques
 - Python, Pandas
+- Filtering the Data
 - Boolean indexing and multi-column sorting
 - GroupBy aggregation with count, mean, and standard deviation
-- Composite metric engineering
 
 ## Structure
 - NYC_SAT_notebook.ipynb -> Main analysis notebook
